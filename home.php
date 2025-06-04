@@ -6,6 +6,9 @@
 	<title>Demo project</title>
 </head>
 <body>
+	<p>
+		This is our home page
+	</p>
 
 </body>
 </html>
