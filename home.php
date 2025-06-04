@@ -10,5 +10,9 @@
 		This is our home page
 	</p>
 
+
+<footer>
+	copy 2025, Nugsoft Technologies
+</footer>
 </body>
 </html>
